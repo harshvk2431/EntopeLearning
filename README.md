@@ -5,5 +5,5 @@ Entoplearning - Your Digital Solution Hub Entoplearning.com is a professional we
 
 Key Features: Responsive Design: Optimized for all devices, ensuring accessibility and a great experience for users on desktop, tablet, or mobile. Easy Navigation: Simplified interface that makes it easy for users to explore services and get in touch. Innovative Solutions: Offering a variety of digital services that cater to both individuals and businesses. WordPress Powered: Built on WordPress, ensuring flexibility, scalability, and ease of use.
 
-Visit the live demo: [Entoplearning.com]
+## Visit the live demo: [www.Entoplearning.com]
 Technologies Used: WordPress Custom themes and plugins Responsive web design (HTML, CSS, JavaScript) Check out the source code and contribute to the project on GitHub. Feel free to raise issues, suggest features, or contribute code!
